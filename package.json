@@ -8,29 +8,23 @@
   },
   "contributors": [
     {
-      "name": "Jeff Garzik",
-      "email": "jgarzik@bitpay.com"
+      "name": "boolafish",
+      "email": "boolafish945@gmail.com"
     },
     {
-      "name": "Manuel Araoz",
-      "email": "manuelaraoz@gmail.com"
+      "name": "wilsonhuang",
+      "email": "a1345962293@gmail.com"
     },
-    {
-      "name": "Matias Alejo Garcia",
-      "email": "ematiu@gmail.com"
-    },
-    {
-      "name": "Braydon Fuller",
-      "email": "braydon@bitpay.com"
-    }
   ],
   "keywords": [
     "bitcoin",
-    "rpc"
+    "rpc",
+    "gcoin",
+    "blockchain"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcoind-rpc"
+    "url": "https://github.com/BlockACH/Gcoind-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
